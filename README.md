@@ -11,5 +11,5 @@
 (3)python main.py测试，去青年大学习界面查看是否有记录  
 （PS：记录只会显示本周第一次学习的时间，后面再学习不会覆盖，所以如果学了建议新的一周再测试）  
 (4)自动化实现方式请自行百度“windows怎么设置定时任务”（每周执行时间自行选择一个确保自己电脑开机的时间且尽量不要周一周一qndxx不稳定）  
-（建议：使用.bat而不使用.py，.bat文件方法---创建main.bat，写入正常用cmd执行python main.py需要的步骤，例如d:&cd qndxx&python main.py之后将.txt后缀改完.bat即可）  
+（建议：使用.bat而不使用.py，.bat文件方法---创建main.txt，写入正常用cmd执行python main.py需要的步骤，例如d:&cd qndxx&python main.py之后将.txt后缀改完.bat即可）  
 (5)为了方便确认是否进行任务，此处采用pushplus推送（www.pushplus.plus） [设置环境变量，变量名:PPTKEY， 值:your pushplus token]
