@@ -7,7 +7,7 @@
 方案二、python！  
 (1)下载main.py , mid.txt  
 (2)公众号广州青年-青年大学习-认证资料-生成电子团员证-（底部）生成电子团员证-···-复制链接  
-（应为https://tuan.12355.net/wechat/view/information/member_certification_generated.html?memberId=XXXXXXX&showMemberAdditionNames=&showMemberRewardIds=&isShowAllFee=true）， 将XXXXXXX添加至Id.txt后保存（可多账号，一行一mid即可）  
+（应为https://tuan.12355.net/wechat/view/information/member_certification_generated.html?memberId=XXXXXXX&showMemberAdditionNames=&showMemberRewardIds=&isShowAllFee=true）， 将XXXXXXX添加至mid.txt后保存（可多账号，一行一mid即可）  
 (3)python main.py测试，去青年大学习界面查看是否有记录  
 （PS：记录只会显示本周第一次学习的时间，后面再学习不会覆盖，所以如果学了建议新的一周再测试）  
 (4)自动化实现方式请自行百度“windows怎么设置定时任务”（每周执行时间自行选择一个确保自己电脑开机的时间且尽量不要周一周一qndxx不稳定）  
